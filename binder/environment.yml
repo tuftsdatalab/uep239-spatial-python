@@ -1,0 +1,16 @@
+name: uep239-spatial-python
+channels:
+  - conda-forge
+dependencies:
+- folium
+- geopandas
+- geopy
+- hvplot
+- jupyterlab
+- matplotlib
+- pandas
+- plotly
+- pyproj
+- python
+- seaborn
+- shapely
